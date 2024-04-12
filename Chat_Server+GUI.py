@@ -30,7 +30,7 @@ LIBRARY_PATH = 'files/Library'
 
 server_chat = socket.socket(family=socket.AF_INET, type=socket.SOCK_STREAM)
 
-shelf_path = '/Users/ovidiucandea/Desktop/Programare Extra/PyCharm Py/File Transfer/files/Library'
+shelf_path = 'files/Library'
 bookshelf = os.listdir(shelf_path)
 print(f'\nAvailable files for download: {bookshelf}\n')
 list_connections = []
