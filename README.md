@@ -14,8 +14,10 @@ Before you begin, ensure you have Python installed on your machine. This project
 
 First, clone the repository to your local machine using Git:
 
-git clone <repository-url>
-cd <repository-directory>
+```
+git clone https://github.com/R4zviC/AlexandriaVirtualLibrary.git
+cd AlexandriaVirtualLibrary
+```
 
 ## Setup the Python Environment
 
